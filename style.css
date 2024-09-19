@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+}
+
+.main-heading {
+    width: 100%;
+    text-align: center; 
+}
+
+#contex {
+    padding: 70px;
+}
+
+.container {
+    height: fit-content;
+    background-color: beige;
+    border: 2px solid black;
+    margin: 5%;
+}
+
+#Salutation{
+    font-size: larger;
+    padding: 10px;
+    margin-left: 10px;
+}
+#firstname {
+    font-size: larger;
+    padding: 10px;
+    margin-left: 10px;
+}
+
+#lastname {
+    font-size: larger;
+    padding: 10px;
+    margin-left: 10px;
+}
+#gender {
+    font-size: larger;
+    padding: 10px;
+    margin-left: 10px;
+}
+#email {
+    font-size: larger;
+    padding: 10px;
+    margin-left: 10px;
+}
+#dateofbirth {
+    font-size: larger;
+    padding: 10px;
+    margin-left: 10px;
+}
+#address {
+    font-size: larger;
+    padding: 10px;
+    margin-left: 10px;
+}
+#addressbox {
+    border-radius: 2%;
+    height: 100px;
+    width: 300px;
+}
+#button {
+    margin: 20px;
+}
