@@ -25,33 +25,7 @@
     padding: 10px;
     margin-left: 10px;
 }
-#firstname {
-    font-size: larger;
-    padding: 10px;
-    margin-left: 10px;
-}
-
-#lastname {
-    font-size: larger;
-    padding: 10px;
-    margin-left: 10px;
-}
-#gender {
-    font-size: larger;
-    padding: 10px;
-    margin-left: 10px;
-}
-#email {
-    font-size: larger;
-    padding: 10px;
-    margin-left: 10px;
-}
-#dateofbirth {
-    font-size: larger;
-    padding: 10px;
-    margin-left: 10px;
-}
-#address {
+#firstname,#lastname,#gender,#email,#dateofbirth,#address {
     font-size: larger;
     padding: 10px;
     margin-left: 10px;
